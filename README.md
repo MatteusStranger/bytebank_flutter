@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# bytebank
+# Bytebank
 
 A new Flutter project.
 
@@ -16,7 +15,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# Bytebank Flutter
-
-Primeiro aplicativo simples utilizando Flutter
->>>>>>> 4a589ee8934bacad5c845c010b8999bd1f17b9d1
